@@ -105,7 +105,3 @@ Check out the `examples/` directory for more use cases:
 - **[Calculator](examples/calculator)**: Basic tool usage.
 - **[RAG Agent](examples/rag_agent)**: Question answering over documents.
 - **[Streaming](examples/streaming_agent)**: Streaming responses and image input.
-
-## License
-
-MIT
